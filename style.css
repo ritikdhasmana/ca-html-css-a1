@@ -923,6 +923,7 @@
   line-height: 1.5;
   text-decoration: underline;
   font-family: var(--font-family);
+  color: #434343;
   }
   .fn-list{
     box-sizing: border-box;
@@ -935,7 +936,7 @@
   .fnl-item-span{
     line-height: 1.5;
     font-weight: 400;
-  color: #000;
+  color: #2c3e50;
   text-decoration: none;
   font-family: var(--font-family);
   font-size: var(--fs-300);
@@ -948,7 +949,7 @@
   .fnl-item-a{
     line-height: 1.5;
     font-weight: 400;
-  color: #000;
+  color: #2c3e50;
   text-decoration: none;
   font-family: var(--font-family);
   font-size: var(--fs-300);
